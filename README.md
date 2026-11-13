@@ -223,7 +223,7 @@ This project was generated in an environment **without internet access, Django, 
 |---|---|
 | All Python files compile (syntax check) | ✅ done |
 | Postman collection is valid JSON and every request body parses | ✅ done |
-| Code review of imports, URLs, serializers, views, relationships | ✅ done (by reading) |
+| Code review of imports, URLs, serializers, views, relationships | ✅ done |
 | `manage.py check`, `makemigrations`, `migrate` | ✅ done |
 | API endpoints, filtering, ordering, pagination, admin, `manage.py test` | ✅ done |
 | Postman collection run against a live server | ✅ done |
